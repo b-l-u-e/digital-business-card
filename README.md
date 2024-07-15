@@ -28,8 +28,7 @@ To run this project locally, ensure you have the following:
 - React and other dependencies specified in `package.json`
 
 ## Installation
-
-1. Clone the repository:
+1: Clone the repository:
    `git clone https://github.com/yourusername/your-repo-name.git`
 
 2: Navigate to the project directory: `cd your-repo-name`
