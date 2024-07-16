@@ -16,10 +16,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 317px;
+    justify-content: center;
+    max-width: 500px;
     height: 800px;
     margin: auto;
-    margin-top: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 0.03rem;
     background: url('./images/profile.png') no-repeat center center;
     position: relative;
     overflow: hidden;
