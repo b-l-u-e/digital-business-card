@@ -8,7 +8,7 @@ import Footer from './Footer';
 
 const Info = () => {
     return (
-        <div className='info__container'>
+        <header className='info__container'>
             <div className='info__title'>
                 <h3>Laura Smith</h3>
                 <h4>Frontend Developer</h4>
@@ -29,7 +29,7 @@ const Info = () => {
             <About />
             <Interests />
             <Footer />
-        </div>
+        </header>
     )   
 }
 
